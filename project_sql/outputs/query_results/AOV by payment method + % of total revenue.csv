@@ -1,0 +1,4 @@
+payment_method,avg_order_value,total_revenue,revenue_pct
+cash_on_delivery,65255.20,1761890.33,35.84
+card,70151.31,1683631.54,34.25
+transfer,61243.13,1469835.20,29.90

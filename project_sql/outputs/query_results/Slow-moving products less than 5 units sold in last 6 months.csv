@@ -1,0 +1,20 @@
+product_name,total_units_sold,last_sale_date,current_stock
+"Leather Bag 31",0,NULL,97
+"Silk Jeans 18",0,NULL,64
+"Wool Dress 26",0,NULL,59
+"Slim Fit Blouse 25",0,NULL,21
+"Wool Jeans 37",0,NULL,16
+"Denim Sneakers 24",0,NULL,15
+"Silk Dress 36",0,NULL,14
+"Classic Sneakers 8",1,"2024-12-25 14:00:00",115
+"Silk Shirt 39",1,"2025-03-16 14:00:00",54
+"Leather Watch 5",1,"2025-03-21 17:00:00",50
+"Cotton Blouse 28",2,"2025-03-16 18:00:00",13
+"Denim Blouse 40",3,"2025-02-07 16:00:00",98
+"Slim Fit Dress 11",3,"2024-10-15 09:00:00",39
+"Classic Sneakers 30",3,"2025-02-24 02:00:00",14
+"Leather Dress 38",4,"2025-02-07 16:00:00",115
+"Leather Watch 12",4,"2025-02-17 17:00:00",108
+"Slim Fit Shirt 1",4,"2025-03-26 19:00:00",99
+"Cotton Jacket 13",4,"2025-03-21 17:00:00",77
+"Denim Jacket 16",4,"2025-03-10 13:00:00",30
